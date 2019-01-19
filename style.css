@@ -1,0 +1,160 @@
+
+  .section {
+    padding: 3rem 1.5rem;
+    text-align: center;
+  }
+
+  .sectionOne {
+    padding-top: 10rem;
+      height: 100vh;
+      background-image: url('img/header-bg.png');
+      background-size: cover;
+
+
+  }
+  h3{
+  color: #2ebace;
+  }
+  h1{
+      color: white;
+      font-size: 40px;
+  }
+ .my-4 {
+    margin-bottom: 1.5rem!important;
+    margin-top: 1.8rem!important;}
+    hr {
+        max-width: 70px;
+        border-width: 3px;
+        border-color: #2ebace;
+    }
+  .lead{
+      margin-top: 30px;
+      color: white;
+  }
+
+  .line-1{
+    height: 1px;
+      border: 50px solid #2ebace;
+  }
+  .btn .btn-outline-light{
+    border-bottom: 5px solid #00e0d0;
+    border-bottom-height: 10px;
+  }
+  h4{
+      font-size: 30px;
+      float: left;
+  }
+  .p-sectwo{
+      
+      line-height: 1.6;
+      text-align: left;
+      margin-top: 60px;
+      color: #817f86;
+  }
+
+
+  .b2{
+      float: left;
+      
+  }
+
+  .sectionThree {
+    padding-top: 10rem;
+      height: 100vh;
+      background-image: url('img/video-bg.png');
+      background-size: cover;
+  }
+
+
+  .sectionFour {
+    padding-top: 10rem;
+      height: 100vh;
+     
+  }
+  
+
+  .card-img-top{
+    width: 55px;
+    height: 50px;
+    
+  }
+
+
+ .sectionFive {
+  padding-top: 40px;
+    height: 100vh;
+   background-image: url('img/team-bg.png');
+   background-size: cover;
+}
+
+.sec-4{
+  margin-top: -120px;
+}
+.col-md-12{
+  color: #817f86;
+}
+
+hr.style1{
+  width:50px;
+  float:center; 
+	border-top: 1px solid #8c8b8b;
+}
+
+.card-deck .card{
+  margin-top: -20px;
+  border:1px solid white;
+  margin-top: 30px;
+  background:transparent;
+}
+
+.card-img-top1{
+  width: 253px;
+  height: 250px;
+}
+
+.card-deck .card .card-body{
+color: white;
+font-weight: bold;
+}
+.sec-5{
+color: white;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
+.sectionSive {
+  padding-top: 40px;
+  height: 100vh;
+  text-align: center;
+
+   
+}
+
+
+.h3-6{
+  color:black;
+  
+  font-weight: bold;
+  float: left;
+}
+
+.p-6{
+  float: right;
+}
+.button-6{
+  margin-top: 30px;
+  text-align: center;
+}
+
+
+.sectionSeven {
+  padding-top: 10rem;
+    height: 100vh;
+  
+}
+
+footer{
+  background-image: url(img/footer-bg.png);
+background-size: cover;
+opacity: o;
+}
